@@ -13,4 +13,5 @@ dist/
 recovered_files/
 
 .vscode/
-.DS_Store
+.DS_Storelocalhost+1.pem
+localhost+1-key.pem
