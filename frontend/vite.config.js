@@ -45,10 +45,6 @@ export default defineConfig({
         target: 'http://localhost:8000',
         secure: false,
       },
-      '/google-callback': {
-        target: 'http://localhost:8000',
-        secure: false,
-      },
     }
   }
 })
